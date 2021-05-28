@@ -18,7 +18,7 @@ mission:
   video_id: ResipmZmpDU
 vision:
   enable: true
-  section: INTRODUCCIÓN 2
+  section: METODOLOGÍA
   vision_item:
   - title: People First
     image: images/vision/vision-01.jpg
@@ -34,7 +34,7 @@ vision:
       <br>Paul Sanar Founder
 product:
   enable: true
-  section: Products
+  section: RESULTADOS
   title: Some Of Our Best Products
   content: See the innovation that has come through the Rio way. As an advancement
     company, the goal is to continuously find areas to help business push forward.
