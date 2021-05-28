@@ -57,7 +57,7 @@ product:
     project_url: "#"
 contact:
   enable: true
-  section: CONTACT US
+  section: DISCUSIÓN Y CONCLUSIONES
   title: reach us
   image: images/map-bg.jpg
   content: The dawn of the digital age and the need for a significant leap forward
