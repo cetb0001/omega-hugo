@@ -18,7 +18,7 @@ mission:
   video_id: ResipmZmpDU
 vision:
   enable: true
-  section: VISION
+  section: INTRODUCCIÓN 2
   vision_item:
   - title: People First
     image: images/vision/vision-01.jpg
