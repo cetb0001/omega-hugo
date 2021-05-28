@@ -11,10 +11,9 @@ banner:
 mission:
   enable: true
   title: Introducción
-  section: MISSION
-  content: Introducing the world’s first Advancement Company. As we enter the dawn
-    of the digital age a significant leap must be made to propel the world into the
-    age of advancement.
+  section: Introducción
+  content: "Aquí va un resumen de la introducción\n\n\n\nEs todo lo larga que quieras\n\n\n\n\nPero
+    debes resumir. "
   video_thumb: images/video-thumb.jpg
   video_id: ResipmZmpDU
 vision:
