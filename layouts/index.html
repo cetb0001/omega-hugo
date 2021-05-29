@@ -83,7 +83,7 @@
           <span>{{ .section | markdownify }}</span>
         </div>
         <div class="visions">
-          {{ range 5 }}
+          {{ range .vision_item }}
           <div class="vision-item">
             <div class="image image-reveal">
               <img src="{{ .image | absURL }}" class="img-fluid" alt="vision-thumb">
