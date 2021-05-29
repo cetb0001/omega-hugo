@@ -40,6 +40,10 @@ vision:
   - title: Estrategia de búsqueda
     image: images/vision/vision-03.jpg
     content: PubMed, Scopus, CINAHL, Cuiden Plus y LILACS.
+  - title: Cadena de búsqueda
+    image: "/images/untitled-drawing.png"
+    content: "(Transgender persons [mh] OR Transsexualism [mh]) AND (nursing care[mh]
+      OR knowledge[mh] OR Attitude of Health Personnel[mh] or health education[mh])"
 product:
   enable: true
   section: RESULTADOS
