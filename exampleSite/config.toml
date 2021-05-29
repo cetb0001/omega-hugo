@@ -15,6 +15,11 @@ pre = "#"
 url = "mission"
 weight = 2
 [[menu.main]]
+name = "Metodología"
+pre = ""
+url = ""
+weight = ""
+[[menu.main]]
 name = "Resultados"
 pre = "#"
 url = "products"
