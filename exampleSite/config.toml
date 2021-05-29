@@ -10,7 +10,7 @@ pre = ""
 url = "/"
 weight = 1
 [[menu.main]]
-name = "About"
+name = "Introducción"
 pre = "#"
 url = "mission"
 weight = 2
