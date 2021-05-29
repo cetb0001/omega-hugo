@@ -30,10 +30,10 @@ pre = "#"
 url = "career"
 weight = 4
 [[menu.main]]
-name = "Contact"
+name = "Conclusión"
 pre = "#"
 url = "contact"
-weight = 5
+weight = "6"
 [params]
 author = "Themefisher"
 contact_info = "1001 Brickell bay <br>Dr. Miami, <br>FL 33131"
