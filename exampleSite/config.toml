@@ -25,15 +25,10 @@ pre = "#"
 url = "products"
 weight = "4"
 [[menu.main]]
-name = "Discusión"
+name = "Discusión y Conclusión"
 pre = "#"
 url = "contact"
 weight = "5"
-[[menu.main]]
-name = "Conclusión"
-pre = "#"
-url = ""
-weight = "6"
 [params]
 author = "Themefisher"
 contact_info = ""
