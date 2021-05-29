@@ -38,10 +38,12 @@ vision:
     image: "/images/untitled-drawing-2.jpg"
     content: Para poder llevar a cabo los objetivos previamente descritos, se ha realizado
       una revisión bibliográfica o narrativa,
-  - title: The Omega Way
+  - title: Estrategia de búsqueda
     image: images/vision/vision-03.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
-      <br>Paul Sanar Founder
+    content: Para obtener los artículos incluidos en esta revisión se han consultado
+      varias bases de datos de literatura científica, como PubMed, Scopus, CINAHL,
+      Cuiden Plus y LILACS, accediendo a estas bases de datos a través de la plataforma
+      perteneciente a la Universidad de Jaén.
 product:
   enable: true
   section: RESULTADOS
