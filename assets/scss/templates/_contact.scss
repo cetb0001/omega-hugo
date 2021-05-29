@@ -46,9 +46,9 @@
     }
     .text-block{
         position: relative;
-        margin-bottom: 400px;
+        margin-bottom: 240px;
         @include desktop{
-            margin-bottom: 400;
+            margin-bottom: 150px;
         }
         @include mobile{
             margin-bottom: 50px;
@@ -58,7 +58,7 @@
             position: relative;
             margin-bottom: 42px;
             font-size: 60px;
-            line-height: 65px;
+            line-height: 100px;
             letter-spacing: 1px;
             span{
                 clip-path: inset(0 100% 0 0);
