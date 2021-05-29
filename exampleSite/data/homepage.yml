@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: Pulse aquí
-    link: "#mission"
+    link: https://tfg-carolina.netlify.app/#mission
 mission:
   enable: true
   title: Introducción
