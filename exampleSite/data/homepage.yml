@@ -29,6 +29,9 @@ vision:
   enable: true
   section: METODOLOGÍA
   vision_item:
+  - title: a
+    image: a
+    content: a
   - title: Objetivo
     image: images/vision/vision-01.jpg
     content: Realizar un análisis de los conocimientos, actitudes y comportamientos
@@ -52,9 +55,8 @@ product:
   enable: true
   section: RESULTADOS
   title: 'De los 567 artículos a los 14 artículos. '
-  content: |-
-    De los 14 resultados, podemos comprobar que existe una heterogeneidad a la hora de abordar esta temática. Ha sido necesario diseñar criterios para clasificar las competencias de los diferentes protagonistas de este trabajo, con el fin de exponerlo de una forma más didáctica.
-    Así pues, proponemos las siguientes categorías de los resultados encontrados:
+  content: De los 567 estudios obtenidos a la hora de realizar las cadenas de búsqueda,
+    se han incluido finalmente en el presente trabajo 14 documentos.
   product_item:
   - title: Ecosystem
     image: images/product/product-03.jpg
