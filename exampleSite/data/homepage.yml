@@ -25,13 +25,13 @@ mission:
     diagnósticos.
 
 '
-  video_thumb: "/images/video-thumb.jpg"
+  video_thumb: "/images/video-thumb.jpeg"
   video_id: 1QbTZYiQ6BA
 vision:
   enable: true
   section: METODOLOGÍA
   vision_item:
-  - title: People First
+  - title: 'Diseño '
     image: images/vision/vision-01.jpg
     content: I started with a vision of creating an atmosphere where people come first.
       <br>Paul Sanar Founder
