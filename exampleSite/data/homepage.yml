@@ -74,9 +74,9 @@ product:
   - title: Cuidados que perciben las personas trans del personal de enfermería
     image: images/product/product-03.jpg
     content: 'Solamente se encontraron 2 artículos en esta categoría. Ambos artículos
-      eran descriptivos cualitativos. Mediante entrevistas estructuradas y no estructuradas,
-      pudimos encontrar que existe déficit de conocimientos tanto de terminología
-      como del colectivo en general por parte del personal de enfermería. '
+      eran descriptivos cualitativos. <br> Mediante entrevistas estructuradas y no
+      estructuradas, pudimos encontrar que existe déficit de conocimientos tanto de
+      terminología como del colectivo en general por parte del personal de enfermería. '
     project_url: https://drive.google.com/file/d/1UrqNm6K_CR2vvfuNierr4oF6SK2V2Wf4/view?usp=sharing
 contact:
   enable: true
