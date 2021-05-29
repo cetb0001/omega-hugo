@@ -86,6 +86,7 @@
         }
         &:nth-child(4){
             transform: translateX(552px);
+            transform: translateY(-40px);
             @include desktop-lg{
                 transform: translateX(150px);
             }
