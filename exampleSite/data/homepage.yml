@@ -32,22 +32,22 @@ vision:
   - title: "Cadena de búsqueda"
     image: "images/vision/vision-01.jpg"
     content: "(Transgender persons [mh] OR Transsexualism [mh]) AND (nursing care[mh] OR knowledge[mh] OR Attitude of Health Personnel[mh] or health education[mh])"
-  - title: "Criterios de inclusión"
-    image: "images/vision/vision-02.jpg"
-    content: "Restricción de idioma a inglés, español y portugués, antigüedad de 10 años máximo, artículos a texto completo."
-  - title: "Cadena de búsqueda"
-    image: "images/vision/vision-01.jpg"
-    content: "(Transgender persons [mh] OR Transsexualism [mh]) AND (nursing care[mh] OR knowledge[mh] OR Attitude of Health Personnel[mh] or health education[mh])"
-vision:
-  enable: true
-  section: METODOLOGÍA2
   vision_item:
   - title: "Cadena de búsqueda"
     image: "images/vision/vision-01.jpg"
     content: "(Transgender persons [mh] OR Transsexualism [mh]) AND (nursing care[mh] OR knowledge[mh] OR Attitude of Health Personnel[mh] or health education[mh])"
-  - title: "Criterios de inclusión"
-    image: "images/vision/vision-02.jpg"
-    content: "Restricción de idioma a inglés, español y portugués, antigüedad de 10 años máximo, artículos a texto completo."
+  vision_item:
+  - title: "Cadena de búsqueda"
+    image: "images/vision/vision-01.jpg"
+    content: "(Transgender persons [mh] OR Transsexualism [mh]) AND (nursing care[mh] OR knowledge[mh] OR Attitude of Health Personnel[mh] or health education[mh])"
+  vision_item:
+  - title: "Cadena de búsqueda"
+    image: "images/vision/vision-01.jpg"
+    content: "(Transgender persons [mh] OR Transsexualism [mh]) AND (nursing care[mh] OR knowledge[mh] OR Attitude of Health Personnel[mh] or health education[mh])"
+  vision_item:
+  - title: "Cadena de búsqueda"
+    image: "images/vision/vision-01.jpg"
+    content: "(Transgender persons [mh] OR Transsexualism [mh]) AND (nursing care[mh] OR knowledge[mh] OR Attitude of Health Personnel[mh] or health education[mh])"
 product:
   enable: true
   section: RESULTADOS
