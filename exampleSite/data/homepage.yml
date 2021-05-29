@@ -29,9 +29,6 @@ vision:
   enable: true
   section: METODOLOGÍA
   vision_item:
-  - title: a
-    image: a
-    content: a
   - title: Objetivo
     image: images/vision/vision-01.jpg
     content: Realizar un análisis de los conocimientos, actitudes y comportamientos
