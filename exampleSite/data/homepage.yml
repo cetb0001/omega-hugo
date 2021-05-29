@@ -12,7 +12,7 @@ mission:
   enable: true
   title: Introducción
   section: Marco teórico
-  content: 'En la actualidad, la sociedad está viviendo una gran serie de cambios,
+  content: En la actualidad, la sociedad está viviendo una gran serie de cambios,
     con especial hincapié en la forma de dirigirnos hacia los demás. En relación a
     las conductas y comportamientos sexuales, tradicionalmente, el único modelo existente
     era el binario, es decir, el sexo y el género de una persona debía coincidir,
@@ -23,9 +23,7 @@ mission:
     la no adhesión a lo que se considera “normal”. Así pues, se ha demostrado que
     muestran más casos de ansiedad, depresión y pensamientos de suicidio, entre otros
     diagnósticos.
-
-'
-  video_thumb: ''
+  video_thumb: "/images/video-thumb.jpg"
   video_id: 1QbTZYiQ6BA
 vision:
   enable: true
@@ -37,7 +35,7 @@ vision:
       que presenta tanto el personal como el estudiantado de enfermería en relación
       a la atención a personas trans.
   - title: Diseño
-    image: "/images/untitled-drawing.jpg"
+    image: images/vision/vision-02.jpg
     content: Para poder llevar a cabo los objetivos previamente descritos, se ha realizado
       una revisión bibliográfica o narrativa,
   - title: The Omega Way
