@@ -29,29 +29,25 @@ vision:
   enable: true
   section: METODOLOGÍA
   vision_item:
-  - title: Objetivo
-    image: images/vision/vision-01.jpg
-    content: Realizar un análisis de los conocimientos, actitudes y comportamientos
-      que presenta tanto el personal como el estudiantado de enfermería en relación
-      a la atención a personas trans.
-  - title: Diseño
+  - title: "Objetivo"
+    image: "images/vision/vision-01.jpg"
+    content: "Realizar un análisis de los conocimientos, actitudes y comportamientos que presenta tanto el personal como el estudiantado de enfermería en relación a la atención a personas trans."
+  - title: "Diseño"
     image: "/images/untitled-drawing-2.jpg"
-    content: Se ha realizado una revisión bibliográfica o narrativa.
-  - title: Estrategia de búsqueda
-    image: images/vision/vision-03.jpg
-    content: PubMed, Scopus, CINAHL, Cuiden Plus y LILACS.
-  - title: Cadena de búsqueda
+    content: "Se ha realizado una revisión bibliográfica o narrativa."
+  - title: "Estrategia de búsqueda"
+    image: "images/vision/vision-03.jpg"
+    content: "PubMed, Scopus, CINAHL, Cuiden Plus y LILACS."
+  - title: "Cadena de búsqueda"
     image: "/images/untitled-drawing.png"
-    content: "(Transgender persons [mh] OR Transsexualism [mh]) AND (nursing care[mh]
-      OR knowledge[mh] OR Attitude of Health Personnel[mh] or health education[mh])"
+    content: "(Transgender persons [mh] OR Transsexualism [mh]) AND (nursing care[mh] OR knowledge[mh] OR Attitude of Health Personnel[mh] or health education[mh])"
   - image: "/images/vision/vision-02.jpg"
-    title: 'Criterios de inclusión '
-    content: Restricción de idioma a inglés, español y portugués, antigüedad de 10
-      años máximo, artículos a texto completo.
+    title: "Criterios de inclusión"
+    content: "Restricción de idioma a inglés, español y portugués, antigüedad de 10 años máximo, artículos a texto completo."
 product:
   enable: true
   section: RESULTADOS
-  title: 'De los 567 artículos a los 14 artículos. '
+  title: 'De los 567 artículos a los 14 artículos.'
   content: De los 567 estudios obtenidos a la hora de realizar las cadenas de búsqueda,
     se han incluido finalmente en el presente trabajo 14 documentos.
   product_item:
