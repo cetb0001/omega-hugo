@@ -25,8 +25,8 @@ pre = "#"
 url = "products"
 weight = "4"
 [[menu.main]]
-name = "Discussión"
-pre = ""
+name = "Discusión"
+pre = "#"
 url = "career"
 weight = 4
 [[menu.main]]
