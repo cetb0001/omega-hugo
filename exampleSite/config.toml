@@ -17,8 +17,8 @@ weight = 2
 [[menu.main]]
 name = "Metodología"
 pre = ""
-url = ""
-weight = ""
+url = "#vision"
+weight = "2.5"
 [[menu.main]]
 name = "Resultados"
 pre = "#"
