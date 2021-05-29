@@ -3,7 +3,7 @@ banner:
   enable: true
   title: Trabajo Fin de Grado
   content: Competencias de enfermería hacia las personas trans
-  image: images/hero-image/hero-slider-01.jpg
+  image: "/images/bandera-trans.jpg"
   button:
     enable: true
     label: WHAT WE DO
