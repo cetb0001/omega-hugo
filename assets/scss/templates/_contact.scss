@@ -1,6 +1,6 @@
 .contact{
     position: relative;
-    padding-top: 300px;
+    padding-top: 180px;
     margin-bottom: 495px;
     z-index: 1;
     @include desktop{
@@ -46,9 +46,9 @@
     }
     .text-block{
         position: relative;
-        margin-bottom: 240px;
+        margin-bottom: 400px;
         @include desktop{
-            margin-bottom: 150px;
+            margin-bottom: 400;
         }
         @include mobile{
             margin-bottom: 50px;
