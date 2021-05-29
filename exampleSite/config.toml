@@ -32,11 +32,11 @@ weight = "5"
 [[menu.main]]
 name = "Conclusión"
 pre = "#"
-url = "contact"
+url = ""
 weight = "6"
 [params]
 author = "Themefisher"
-contact_info = "1001 Brickell bay <br>Dr. Miami, <br>FL 33131"
+contact_info = ""
 description = "This is meta description"
 logo = "images/logo.png"
 logo_width = "120px"
