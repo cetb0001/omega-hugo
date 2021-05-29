@@ -26,7 +26,7 @@ mission:
 
 '
   video_thumb: "/images/video-thumb.jpg"
-  video_id: ResipmZmpDU
+  video_id: https://youtu.be/1QbTZYiQ6BA
 vision:
   enable: true
   section: METODOLOGÍA
