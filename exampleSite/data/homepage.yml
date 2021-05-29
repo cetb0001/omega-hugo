@@ -25,7 +25,7 @@ mission:
     diagnósticos.
 
 '
-  video_thumb: images/video-thumb.jpg
+  video_thumb: "/images/20210222_trans-p38bixogji6qd63hjrewhcekmzlmhh1dj7tagcg26o.jpg"
   video_id: ResipmZmpDU
 vision:
   enable: true
