@@ -36,34 +36,15 @@ description = "This is meta description"
 logo = "images/logo.png"
 logo_width = "120px"
 preloader = true
+social = []
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"
 map_center_lat = "25.773606"
 map_center_lng = "-80.732655"
 map_marker = "images/map-marker.png"
 map_position_lat = "25.7635916"
 map_position_lng = "-80.1937595"
-[[params.social]]
-icon = "fa-facebook"
-link = "#"
-title = "facebook"
-[[params.social]]
-icon = "fa-twitter"
-link = "#"
-title = "twitter"
-[[params.social]]
-icon = "fa-instagram"
-link = "#"
-title = "instagram"
-[[params.social]]
-icon = "fa-github"
-link = "#"
-title = "github"
-[[params.social]]
-icon = "fa-linkedin"
-link = "#"
-title = "linkedin"
