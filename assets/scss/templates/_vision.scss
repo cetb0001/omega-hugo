@@ -85,7 +85,7 @@
             }
         }
         &:nth-child(4){
-            transform: translateX(-552px);
+            transform: translateX(552px);
             @include desktop-lg{
                 transform: translateX(150px);
             }
@@ -94,7 +94,7 @@
             }
         }
         &:nth-child(5){
-            transform: translateY(80px);
+            transform: translateY(-40px);
             @include desktop-lg{
                 transform: translateY(0);
                 margin-top: 30px;
