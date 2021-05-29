@@ -5,30 +5,30 @@ title = "TFG "
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "TFG"
-pre = ""
-url = "/"
-weight = 1
+name = "Discusión y Conclusión"
+pre = "#"
+url = "contact"
+weight = 5
+[[menu.main]]
+name = "Resultados"
+pre = "#"
+url = "products"
+weight = 4
+[[menu.main]]
+name = "Metodología"
+pre = "#"
+url = "vision"
+weight = 3
 [[menu.main]]
 name = "Introducción"
 pre = "#"
 url = "mission"
 weight = 2
 [[menu.main]]
-name = "Metodología"
-pre = "#"
-url = "vision"
-weight = "3"
-[[menu.main]]
-name = "Resultados"
-pre = "#"
-url = "products"
-weight = "4"
-[[menu.main]]
-name = "Discusión y Conclusión"
-pre = "#"
-url = "contact"
-weight = "5"
+name = "TFG"
+pre = ""
+url = "/"
+weight = 1
 [params]
 author = "Themefisher"
 contact_info = ""
