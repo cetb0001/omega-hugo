@@ -27,7 +27,7 @@ weight = "4"
 [[menu.main]]
 name = "Discusión"
 pre = "#"
-url = "career"
+url = "contact"
 weight = "5"
 [[menu.main]]
 name = "Conclusión"
