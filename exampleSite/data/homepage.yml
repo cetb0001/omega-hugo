@@ -82,7 +82,7 @@ contact:
   enable: true
   section: DISCUSIÓN
   title: Discusión
-  image: images/map-bg.jpg
+  image: "/images/map-bg.jpg"
   content: |-
     Formación sobre el colectivo trans
     Se ha demostrado que al impartir una clase teórico-práctica, donde se les daba a los participantes material sobre términos trans, y después aplicando los conocimientos adquiridos en una simulación con un paciente trans, hubo una mejora estadísticamente significativa de p = 0.000. Hubo varios estudios de profesionales de enfermería, como el de Catherine Paradiso y cols., que manifestaban que había falta de formación a la hora de atender a algún paciente trans.
@@ -91,7 +91,6 @@ contact:
     El colectivo trans es, tanto a nivel de sociedad como a nivel de sanidad, un tema tabú. Es necesario hacer hincapié en la creación de un entorno de aceptación ayuda a las personas trans en la atención que reciben en el ámbito de la sanidad.
 call_to_action:
   enable: true
-  title: Join the Omega family. <br>Click below to view the career opportunities we
-    have for you.
+  title: Conclusión
   button_label: Apply Now
   button_link: career
