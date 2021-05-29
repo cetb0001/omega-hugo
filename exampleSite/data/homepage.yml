@@ -25,16 +25,17 @@ mission:
     diagnósticos.
 
 '
-  video_thumb: "/images/video-thumb.jpeg"
+  video_thumb: "/images/video-thumb.jpg"
   video_id: 1QbTZYiQ6BA
 vision:
   enable: true
   section: METODOLOGÍA
   vision_item:
-  - title: 'Diseño '
+  - title: Objetivo
     image: images/vision/vision-01.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
-      <br>Paul Sanar Founder
+    content: Realizar un análisis de los conocimientos, actitudes y comportamientos
+      que presenta tanto el personal como el estudiantado de enfermería en relación
+      a la atención a personas trans.
   - title: Employee Culture
     image: images/vision/vision-02.jpg
     content: I started with a vision of creating an atmosphere where people come first.
