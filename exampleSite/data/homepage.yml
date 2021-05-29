@@ -6,7 +6,7 @@ banner:
   image: "/images/bandera-trans.jpg"
   button:
     enable: true
-    label: Scroll down
+    label: Pulse aquí
     link: "#mission"
 mission:
   enable: true
