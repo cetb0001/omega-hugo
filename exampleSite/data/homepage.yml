@@ -6,8 +6,8 @@ banner:
   image: "/images/bandera-trans.jpg"
   button:
     enable: true
-    label: WHAT WE DO
-    link: "#products"
+    label: Scroll down
+    link: "#mission"
 mission:
   enable: true
   title: Introducción
