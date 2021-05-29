@@ -40,7 +40,7 @@ contact_info = ""
 description = "This is meta description"
 logo = "images/logo.png"
 logo_width = "120px"
-preloader = true
+preloader = false
 social = []
 [params.cookies]
 enable = false
