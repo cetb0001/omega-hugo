@@ -1,0 +1,145 @@
+---
+label: pagehome
+hide_body: true
+fields:
+- type: field_group
+  name: banner
+  label: banner
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: content
+    label: content
+  - type: file
+    name: image
+    label: image
+  - type: field_group
+    name: button
+    label: button
+    fields:
+    - type: boolean
+      name: enable
+      label: enable
+    - type: text
+      name: label
+      label: label
+    - type: text
+      name: link
+      label: link
+- type: field_group
+  name: mission
+  label: mission
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: section
+    label: section
+  - type: textarea
+    name: content
+    label: content
+  - type: file
+    name: video_thumb
+    label: video_thumb
+  - type: text
+    name: video_id
+    label: video_id
+- type: field_group
+  name: vision
+  label: vision
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: section
+    label: section
+  - type: field_group_list
+    name: vision_item
+    label: vision_item
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: file
+      name: image
+      label: image
+    - type: textarea
+      name: content
+      label: content
+- type: field_group
+  name: product
+  label: product
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: section
+    label: section
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
+  - type: field_group_list
+    name: product_item
+    label: product_item
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: file
+      name: image
+      label: image
+    - type: textarea
+      name: content
+      label: content
+    - type: text
+      name: project_url
+      label: project_url
+- type: field_group
+  name: contact
+  label: contact
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: section
+    label: section
+  - type: text
+    name: title
+    label: title
+  - type: file
+    name: image
+    label: image
+  - type: textarea
+    name: content
+    label: content
+- type: field_group
+  name: call_to_action
+  label: call_to_action
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: button_label
+    label: button_label
+  - type: text
+    name: button_link
+    label: button_link
