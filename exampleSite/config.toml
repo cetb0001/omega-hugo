@@ -5,7 +5,7 @@ title = "TFG "
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Home"
+name = "TFG"
 pre = ""
 url = "/"
 weight = 1
