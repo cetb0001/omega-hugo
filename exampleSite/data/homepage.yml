@@ -51,10 +51,9 @@ vision:
 product:
   enable: true
   section: RESULTADOS
-  title: Some Of Our Best Products
-  content: See the innovation that has come through the Rio way. As an advancement
-    company, the goal is to continuously find areas to help business push forward.
-    Below you can find the first product available to help you do so.
+  title: 'De los 567 artículos a los 14 artículos. '
+  content: De los 567 estudios obtenidos a la hora de realizar las cadenas de búsqueda,
+    se han incluido finalmente en el presente trabajo 14 documentos.
   product_item:
   - title: Ecosystem
     image: images/product/product-03.jpg
