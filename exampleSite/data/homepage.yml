@@ -29,33 +29,40 @@ vision:
   enable: true
   section: METODOLOGÍA
   vision_item:
-  - title: "Cadena de búsqueda"
+  - title: Cadena de búsqueda
     image: "/images/vision/vision-01.jpg"
-    content: "(Transgender persons [mh] OR Transsexualism [mh]) AND (nursing care[mh] OR knowledge[mh] OR Attitude of Health Personnel[mh] or health education[mh])"
-  - title: "Cadena de búsqueda"
+    content: "(Transgender persons [mh] OR Transsexualism [mh]) AND (nursing care[mh]
+      OR knowledge[mh] OR Attitude of Health Personnel[mh] or health education[mh])"
+  - title: Cadena de búsqueda
     image: "/images/vision/vision-02.jpg"
-    content: "(Transgender persons [mh] OR Transsexualism [mh]) AND (nursing care[mh] OR knowledge[mh] OR Attitude of Health Personnel[mh] or health education[mh])"
-  - title: "Cadena de búsqueda"
+    content: "(Transgender persons [mh] OR Transsexualism [mh]) AND (nursing care[mh]
+      OR knowledge[mh] OR Attitude of Health Personnel[mh] or health education[mh])"
+  - title: Cadena de búsqueda
     image: "/images/vision/vision-03.jpg"
-    content: "(Transgender persons [mh] OR Transsexualism [mh]) AND (nursing care[mh] OR knowledge[mh] OR Attitude of Health Personnel[mh] or health education[mh])"
-  - title: "Cadena de búsqueda"
+    content: "(Transgender persons [mh] OR Transsexualism [mh]) AND (nursing care[mh]
+      OR knowledge[mh] OR Attitude of Health Personnel[mh] or health education[mh])"
+  - title: Cadena de búsqueda
     image: "/images/vision/vision-04.jpg"
-    content: "(Transgender persons [mh] OR Transsexualism [mh]) AND (nursing care[mh] OR knowledge[mh] OR Attitude of Health Personnel[mh] or health education[mh])"
-  - title: "Cadena de búsqueda"
+    content: "(Transgender persons [mh] OR Transsexualism [mh]) AND (nursing care[mh]
+      OR knowledge[mh] OR Attitude of Health Personnel[mh] or health education[mh])"
+  - title: Cadena de búsqueda
     image: "/images/vision/vision-05.jpg"
-    content: "(Transgender persons [mh] OR Transsexualism [mh]) AND (nursing care[mh] OR knowledge[mh] OR Attitude of Health Personnel[mh] or health education[mh])"
+    content: "(Transgender persons [mh] OR Transsexualism [mh]) AND (nursing care[mh]
+      OR knowledge[mh] OR Attitude of Health Personnel[mh] or health education[mh])"
 product:
   enable: true
   section: RESULTADOS
-  title: 'De los 567 artículos a los 14 artículos.'
+  title: De los 567 artículos a los 14 artículos.
   content: De los 567 estudios obtenidos a la hora de realizar las cadenas de búsqueda,
     se han incluido finalmente en el presente trabajo 14 documentos.
   product_item:
-  - title: Ecosystem
+  - title: Competenicas de los estudiantes de enfermería
     image: images/product/product-03.jpg
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
-    project_url: "#"
+    content: 'De los 7 artículos encontrados en este apartado, podemos clasificarlos
+      en: descriptivos, analíticos de cohortes y quasi-experimentales. Ésto mediante
+      clases-teóricos-prácticos, encontraron asociación en la mejorar de los conocimientos
+      de los estudiantes. '
+    project_url: https://drive.google.com/file/d/1zQIRpKJBQyb0673vn8QitXZ5zh4OCnYY/view?usp=sharing
   - title: Objects
     image: images/product/product-02.jpg
     content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
