@@ -37,7 +37,7 @@ funfacts:
       needs.
 career:
   enable: true
-  title: Webs
+  title: Webs de interés
   job_item:
   - name: CHRYSALLIS
     location: Asociación de familias de menores Trans*
