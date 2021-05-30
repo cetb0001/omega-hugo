@@ -1,5 +1,5 @@
 ---
-title: Recursos
+title: "<h2>Recursos<h2>"
 layout: Recursos
 description: ''
 about:
