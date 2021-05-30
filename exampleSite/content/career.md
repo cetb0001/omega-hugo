@@ -1,8 +1,9 @@
 ---
 title: RECURSOS
 layout: career
-description: En este apartado, podrás encontrar más información interesante sobre
-  la temática de personas trans y en relación, a la sanidad.
+description: En este apartado, podrás encontrar mucha más información interesante
+  sobre el uso correcto del lenguaje inclusive, la diferencias entre modelos, enlaces
+  de interés, etc. No olvidemos que toda información suma y todo sirve para aprender....
 about:
   enable: true
   title: Modelo Binario Vs Modelo No Binario
