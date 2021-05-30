@@ -62,18 +62,25 @@ career:
 
       Lxs que formamos parte de ARELAS, hemos vivido el tabú existente en la sociedad con respecto a la transexualidad de nuestrxs hijxs. Hemos visto como ese mismo tabú lo han sentido nuestrxs hijxs ya que desde bien pequeñxs observan, que por encima de todo, lxs equivocadxs son ellxs y que por tanto deben ajustarse a lo que la sociedad entiende por “normal”. Cada familia hemos vivido y enfrentado estos prejuicios de una manera distinta pero todas, más tarde o más temprano, hemos decidido que ante todo, lo más importante era la felicidad de nuestrxs hijxs.
     experiences: []
-  - name: Operations Manager
-    location: Hamburg, Germany
-    form_action: "#"
-    about: With experience in creating visual directions for tech products, you are
-      able to set the standard and lead designers along the way. You are not only
-      able to execute beautiful user experiences yourself but communicate those concepts
-      to the team and clients.
-    experiences:
-    - "3+ years Development\texperience in a startup environment"
-    - Strong knowledge of iOS, Android & Web Platforms
-    - Dynamic presentation and communication skills
-    - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
+  - name: Transdiversa
+    location: Género y Diversidad
+    form_action: "#https://www.transdiversa.org/"
+    about: "Transdiversa es una cooperativa de iniciativa social que trabaja a nivel
+      estatal desde la perspectiva de la diversidad sexual y de género, apostando
+      por el respeto a los Derechos Humanos fundamentales de las personas trans y
+      por la despatologización de nuestras identidades y cuerpos.  \n\n \n\nNuestro
+      objetivo es generar una sociedad más habitable, erradicando la transfobia y
+      cualquier tipo de discriminación o violencia por motivos de identidad y/o expresión
+      de género, orientación del deseo y/o características sexuales (LGTBQIfobia).
+      Trabajamos con una mirada feminista e interseccional partiendo del cuestionamiento
+      y deconstrucción del sistema sexo-género. \n\n \n\nNuestra filosofía como cooperativa
+      es satisfacer las necesidades e intereses sociales y colectivos con actuaciones
+      en las que primen la perspectiva innovadora y el enfoque comunitario. Seguimos
+      los principios de la economía social y solidaria entre los que destacamos: democracia
+      interna, servicio a la comunidad, cooperación, ayuda mutua, solidaridad y responsabilidad.
+      \n\n \n\nNuestras líneas de trabajo actualmente son la formación y concienciación
+      y la atención psicosocial."
+    experiences: []
   - name: International Compliance Officer
     location: Hamburg, Germany
     form_action: "#"
