@@ -14,7 +14,7 @@ gallery:
   images:
   - "/images/untitled-drawing-5.png"
   - "/images/untitled-drawing-5.jpg"
-  - "/images/a1-1.jpg"
+  - "/images/untitled-drawing-2.png"
 funfacts:
   enable: true
   title: amenities for you to enjoy
