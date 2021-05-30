@@ -5,6 +5,11 @@ title = "TFG "
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
+name = "+ Recursos"
+pre = "#"
+url = "carrer"
+weight = "6"
+[[menu.main]]
 name = "Discusión y Conclusión"
 pre = "#"
 url = "contact"
