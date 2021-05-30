@@ -7,7 +7,10 @@ description: En este apartado, podrás encontrar mucha más información interes
 about:
   enable: true
   title: Modelo Binario Vs Modelo No Binario
-  content: ''
+  content: A lo largo de la historia, las diferentes sociedades han seguido el modelo
+    binario. Sin embargo, en la actualidad, cada vez hay más personas que siguen el
+    modelo no binario. Así pues, es interesante entender las diferencias entre estos
+    dos modelos.
   video_thumb: "/images/section-bg.jpg"
   video_id: 1QbTZYiQ6BA
 gallery:
