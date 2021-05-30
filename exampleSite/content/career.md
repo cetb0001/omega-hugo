@@ -21,9 +21,9 @@ gallery:
   - "/images/a1-1.jpg"
 funfacts:
   enable: true
-  title: amenities for you to enjoy
+  title: Debido a la discriminación y estigmatización que sufren...
   funfacts_item:
-  - name: Flexible hours
+  - name: Suicidio
     icon: fa-bicycle
     content: Tight schedule, tell us so we can tailor the schedule that fits your
       needs.
