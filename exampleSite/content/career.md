@@ -91,5 +91,6 @@ menu:
   main:
     name: "+ Recursos"
     weight: 6
+draft: true
 
 ---
