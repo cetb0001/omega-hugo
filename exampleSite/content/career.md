@@ -25,8 +25,7 @@ funfacts:
   funfacts_item:
   - name: Suicidio
     icon: fa-bicycle
-    content: Tight schedule, tell us so we can tailor the schedule that fits your
-      needs.
+    content: El 41% de las personas trans comenten suicidio
   - name: Ansiedad
     icon: fa-bell-o
     content: Tight schedule, tell us so we can tailor the schedule that fits your
