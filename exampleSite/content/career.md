@@ -31,7 +31,7 @@ funfacts:
     icon: fa-bell-o
     content: Tight schedule, tell us so we can tailor the schedule that fits your
       needs.
-  - name: Recreation
+  - name: Depresión
     icon: fa-microchip
     content: Tight schedule, tell us so we can tailor the schedule that fits your
       needs.
