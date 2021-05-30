@@ -12,9 +12,9 @@ about:
 gallery:
   enable: true
   images:
-  - "/images/untitled-drawing-5.png"
-  - "/images/untitled-drawing-5.jpg"
-  - "/images/untitled-drawing-2.png"
+  - "/images/jhfk-j.jpg"
+  - "/images/hitos_transexuales.png"
+  - "/images/a1-1.jpg"
 funfacts:
   enable: true
   title: amenities for you to enjoy
