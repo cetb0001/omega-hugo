@@ -1,11 +1,11 @@
 ---
 title: RECURSOS
-layout: Recursos
+layout: Career
 description: 'En este apartado, podrás encontrar más información interesante sobre
-  la temática de personas trans y en relación, a la sanidad. '
+  la temática de personas trans y en relación, a la sanidad.'
 about:
   enable: true
-  title: 'Modelo Binario Vs Modelo No Binario '
+  title: 'Modelo Binario Vs Modelo No Binario'
   content: ''
   video_thumb: "/images/section-bg.jpg"
   video_id: 1QbTZYiQ6BA
