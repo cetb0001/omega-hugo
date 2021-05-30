@@ -12,8 +12,8 @@ about:
 gallery:
   enable: true
   images:
-  - "/images/jhfk-j.jpg"
-  - "/images/hitos_transexuales.png"
+  - "/images/untitled-drawing-5.png"
+  - "/images/untitled-drawing-5.jpg"
   - "/images/a1-1.jpg"
 funfacts:
   enable: true
