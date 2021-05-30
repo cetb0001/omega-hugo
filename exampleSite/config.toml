@@ -6,8 +6,8 @@ title = "TFG "
 unsafe = true
 [[menu.main]]
 name = "+ Recursos"
-pre = "#"
-url = "carrer"
+pre = ""
+url = "career"
 weight = "6"
 [[menu.main]]
 name = "Discusión y Conclusión"
