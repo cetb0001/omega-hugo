@@ -35,7 +35,7 @@ funfacts:
     icon: fa-microchip
     content: Tight schedule, tell us so we can tailor the schedule that fits your
       needs.
-  - name: 5 Working Days
+  - name: Acoso
     icon: fa-plug
     content: Tight schedule, tell us so we can tailor the schedule that fits your
       needs.
