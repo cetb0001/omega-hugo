@@ -81,13 +81,14 @@ career:
       \n\n \n\nNuestras líneas de trabajo actualmente son la formación y concienciación
       y la atención psicosocial."
     experiences: []
-  - name: International Compliance Officer
-    location: Hamburg, Germany
-    form_action: "#"
-    about: With experience in creating visual directions for tech products, you are
-      able to set the standard and lead designers along the way. You are not only
-      able to execute beautiful user experiences yourself but communicate those concepts
-      to the team and clients.
+  - name: Ambiente G
+    location: Ser LGTBIQ+ en la tercera edad y la problemática de las residencias
+      de ancianos
+    form_action: "#https://www.ambienteg.com/"
+    about: AmbienteG es un weblog colectivo en el que podrás encontrar toda la la
+      actualidad del mundo LGBT. Noticias redactadas con el punto de vista único e
+      independiente de nuestros editores, sobre derechos, cultura y arte, cine, tendencias,
+      música y ese punto de petardeo que tanto nos gusta…
     experiences:
     - "3+ years Development\texperience in a startup environment"
     - Strong knowledge of iOS, Android & Web Platforms
