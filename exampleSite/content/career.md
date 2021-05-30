@@ -13,7 +13,7 @@ gallery:
   enable: true
   images:
   - "/images/jhfk-j.jpg"
-  - images/gallery/gallery-02.png
+  - "/images/hitos_transexuales.png"
   - images/gallery/gallery-03.png
 funfacts:
   enable: true
@@ -87,9 +87,5 @@ career:
     - Strong knowledge of iOS, Android & Web Platforms
     - Dynamic presentation and communication skills
     - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
-menu:
-  main:
-    name: "+ Recursos"
-    weight: 6
 
 ---
