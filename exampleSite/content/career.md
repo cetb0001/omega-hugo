@@ -41,7 +41,7 @@ career:
   job_item:
   - name: CHRYSALLIS
     location: Asociación de familias de menores Trans*
-    form_action: https://chrysallis.org/
+    form_action: "#https://chrysallis.org/"
     about: 'Chrysallis nace a nivel estatal el 1 de julio de 2013. Los meses previos
       algunas familias de todo el estado nos habíamos ido encontrando a través de
       las redes sociales o de asociaciones de personas trans adultas, coincidiendo
