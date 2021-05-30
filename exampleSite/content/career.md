@@ -14,7 +14,7 @@ gallery:
   images:
   - "/images/jhfk-j.jpg"
   - "/images/hitos_transexuales.png"
-  - images/gallery/gallery-03.png
+  - "/images/a1-1.jpg"
 funfacts:
   enable: true
   title: amenities for you to enjoy
