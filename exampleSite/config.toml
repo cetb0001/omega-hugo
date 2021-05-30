@@ -7,7 +7,7 @@ unsafe = true
 [[menu.main]]
 name = "+ Recursos"
 pre = "#"
-url = "https://tfg-carolina.netlify.app/career/"
+url = "carrer"
 weight = "6"
 [[menu.main]]
 name = "Discusión y Conclusión"
