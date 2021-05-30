@@ -5,25 +5,10 @@ description: 'En este apartado, podrás encontrar más información interesante 
   la temática de personas trans y en relación, a la sanidad. '
 about:
   enable: true
-  title: Epidemiología
-  content: 'Teniendo en cuenta las dificultades que existen, el personal investigador
-    que se ha centrado en acercarse a estos datos, lo han llevado a cabo en tres categorías:
-    <br> 1) incluyendo a los individuos que recibieron o solicitaron terapia quirúrgica
-    y terapia de afirmación de género quirúrgica u hormonal. <br> 2) Limitándose a
-    las personas trans que recibieron diagnósticos relacionados con la transexualidad,
-    como "transexualismo", "disforia de disforia de género" o "trastorno de identidad
-    de género". <br> Y 3) basándose en los cambios legales o administrativos de cambio
-    de nombre o de género. <br><br> La mayoría de estudios manejaron datos de países
-    europeos, 5 de Suecia, 3 de Holanda, 3 del Reino Unido, 2 de Alemania y 1 de España,
-    Bélgica, Serbia, Irlanda y Polonia. <br><br> Por otro lado, se tuvieron en cuenta
-    estudios en Estados Unidos, Singapur y Australia. Así pues, la WPATH, muestra
-    que la prevalencia de la población trans ha variado desde 1 de cada 11.900 a 1
-    de cada 45.000 para mujeres trans (hombre a mujer, HaM) y 1 de cada 30.400 a 1
-    de cada 200.000 para hombre trans (mujer a hombre, MaH). <br> Por otro lado, señalar
-    que hubo varias investigaciones que comentaban la existencia de un mayor número
-    de hombres que solicitan reasignación de sexo, que de mujeres.<br>'
-  video_thumb: images/promo-video-thumbnail.jpg
-  video_id: g3-VxLQO7do
+  title: 'Modelo Binario Vs Modelo No Binario '
+  content: ''
+  video_thumb: "/images/section-bg.jpg"
+  video_id: 1QbTZYiQ6BA
 gallery:
   enable: true
   images:
