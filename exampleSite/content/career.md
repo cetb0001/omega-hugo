@@ -21,13 +21,13 @@ gallery:
   - "/images/a1-1.jpg"
 funfacts:
   enable: true
-  title: Debido a la discriminación y estigmatización que sufren...
+  title: 'Discriminación y estigmatización... '
   funfacts_item:
   - name: Suicidio
     icon: fa-bicycle
     content: Tight schedule, tell us so we can tailor the schedule that fits your
       needs.
-  - name: Free Snacks
+  - name: Ansiedad
     icon: fa-bell-o
     content: Tight schedule, tell us so we can tailor the schedule that fits your
       needs.
