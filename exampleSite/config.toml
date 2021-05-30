@@ -6,7 +6,7 @@ title = "TFG "
 unsafe = true
 [[menu.main]]
 name = "+ Recursos"
-pre = ""
+pre = "#"
 url = "carrer"
 weight = "6"
 [[menu.main]]
