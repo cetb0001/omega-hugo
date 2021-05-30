@@ -53,11 +53,7 @@ career:
       del sufrimiento de nuestres niñes) y no existían colectivos similares que estuvieran
       trabajando en ello. No estábamos dispuestas a que vivieran una infancia y juventud
       sin que su identidad de género fuera reconocida y nació así Chrysallis.'
-    experiences:
-    - "3+ years Development\texperience in a startup environment"
-    - Strong knowledge of iOS, Android & Web Platforms
-    - Dynamic presentation and communication skills
-    - 'Self-motivation: You manage your own milestones, deadlines, and priorities'
+    experiences: []
   - name: DevOps Engineer
     location: Hamburg, Germany
     form_action: "#"
