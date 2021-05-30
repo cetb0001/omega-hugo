@@ -1,7 +1,8 @@
 ---
-title: "<h2> Recursos </h2>"
+title: RECURSOS
 layout: Recursos
-description: ''
+description: 'En este apartado, podrás encontrar más información interesante sobre
+  la temática de personas trans y en relación, a la sanidad. '
 about:
   enable: true
   title: Epidemiología
