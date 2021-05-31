@@ -35,9 +35,9 @@ pre = ""
 url = "/"
 weight = 1
 [params]
-author = "Themefisher"
+author = "Carolina Elizabeth Toro-Bacharach"
 contact_info = ""
-description = "This is meta description"
+description = "Competencias de enfermería hacia las personas trans"
 logo = "images/logo.png"
 logo_width = "120px"
 preloader = false
