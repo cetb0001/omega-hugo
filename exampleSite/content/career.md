@@ -20,14 +20,14 @@ gallery:
   - "/images/img2.png"
   - "/images/img3.png"
 funfacts:
-  enable: true
+  enable: false
   title: 'Discriminación y estigmatización... '
   funfacts_item:
-  - name: Suicidio2
-    icon: "skull-crossbones"
+  - name: Suicidio
+    icon: fa-capsules
     content: El 41% de las personas trans comenten suicidio
   - name: Ansiedad
-    icon: "sad-tear"
+    icon: fa-bell-o
     content: 33% del colectivo trans sufren ansiedad
   - name: Depresión
     icon: fa-microchip
