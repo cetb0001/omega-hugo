@@ -24,7 +24,7 @@ funfacts:
   title: 'Discriminación y estigmatización... '
   funfacts_item:
   - name: Suicidio
-    icon: {{% fontawesome skull-crossbones %}}
+    icon: "skull-crossbones"
     content: El 41% de las personas trans comenten suicidio
   - name: Ansiedad
     icon: skull-crossbones
