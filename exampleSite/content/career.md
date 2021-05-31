@@ -24,7 +24,7 @@ funfacts:
   title: 'Discriminación y estigmatización... '
   funfacts_item:
   - name: Suicidio
-    icon: fa-bicycle
+    icon: <i class="fas fa-capsules"></i>
     content: El 41% de las personas trans comenten suicidio
   - name: Ansiedad
     icon: fa-bell-o
