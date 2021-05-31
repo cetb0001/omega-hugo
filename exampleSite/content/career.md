@@ -16,9 +16,9 @@ about:
 gallery:
   enable: true
   images:
-  - "/images/jhfk-j.jpg"
-  - "/images/hitos_transexuales.png"
-  - "/images/a1-1.jpg"
+  - "/images/img1.png"
+  - "/images/img2.png"
+  - "/images/img3.png"
 funfacts:
   enable: true
   title: 'Discriminación y estigmatización... '
