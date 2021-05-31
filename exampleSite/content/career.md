@@ -20,7 +20,7 @@ gallery:
   - "/images/img2.png"
   - "/images/img3.png"
 funfacts:
-  enable: false
+  enable: true
   title: 'Discriminación y estigmatización... '
   funfacts_item:
   - name: Suicidio
