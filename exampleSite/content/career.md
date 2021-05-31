@@ -27,7 +27,7 @@ funfacts:
     icon: {{% fontawesome skull-crossbones %}}
     content: El 41% de las personas trans comenten suicidio
   - name: Ansiedad
-    icon: fa-bell-o
+    icon: skull-crossbones
     content: 33% del colectivo trans sufren ansiedad
   - name: Depresión
     icon: fa-microchip
